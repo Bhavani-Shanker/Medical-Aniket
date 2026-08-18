@@ -5,7 +5,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-from scipy import __version__ as scipy_version
+
 from scipy.stats import (
     fisher_exact,
     chi2_contingency,
